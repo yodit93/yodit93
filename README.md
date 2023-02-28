@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-##<p align="center">Let's Connect and have a Chat!💬</p>
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
 
 <a href="https://twitter.com/yodtwit">
   <img height="50" src="https://www.iconfinder.com/icons/5296514/bird_tweet_twitter_twitter_logo_icon"/>
@@ -16,9 +18,9 @@
 
 <img src="https://media4.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif?cid=ecf05e47f4gq2i5lglwyu4m82mu9ex60pifzk5tt4rcs00gs&rid=giphy.gif&ct=g"/>
 
-```yaml
 
-##👨🏻‍💻 A Little Bit About Me and My Interests.
+<h2>👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests.</h2>
+```yaml
 name: Yodit Abebe
 located_in: Hawassa, Ethiopia
 current_job: Full Stack Developer
