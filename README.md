@@ -5,21 +5,22 @@
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
-
+<p align="center">
 <a href="https://twitter.com/yodtwit">
-  <img height="50" src="https://www.iconfinder.com/icons/5296514/bird_tweet_twitter_twitter_logo_icon"/>
+  <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-1024.png"/>
 </a>
 <a href="https://linkedin.com/in/yodit-abebe-a97a68140">
-  <img height="50" src="https://www.iconfinder.com/icons/5296501/linkedin_network_linkedin_logo_icon"/>
+  <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png"/>
 </a>
 <a href="https://github.com/yodit93/Personal-portfolio">
-  <img height="50" src="https://www.iconfinder.com/icons/4818544/cv_job_portfolio_icon"/>
+  <img height="50" src="https://cdn2.iconfinder.com/data/icons/business-office-1-9/100/1-07-1024.png"/>
 </a>
-
+</p>
 <img src="https://media4.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif?cid=ecf05e47f4gq2i5lglwyu4m82mu9ex60pifzk5tt4rcs00gs&rid=giphy.gif&ct=g"/>
 
 
 <h2>👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests.</h2>
+
 ```yaml
 name: Yodit Abebe
 located_in: Hawassa, Ethiopia
