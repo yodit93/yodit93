@@ -70,7 +70,7 @@ hobbies: ["Gaming", "Cinema", "Discussing with friends", "Art", "Comedy"]
 <p>You can check out my portfolio<a href="https://github.com/yodit93/Personal-portfolio">
   <img height="30" src="https://cdn2.iconfinder.com/data/icons/business-office-1-9/100/1-07-1024.png"/></a></p>
 
-![Snake animation](https://github.com/yodit93/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](<img src="https://github.com/yodit93/blob/output/github-contribution-grid-snake.svg"/>)
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
