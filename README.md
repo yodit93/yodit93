@@ -12,9 +12,6 @@
 <a href="https://linkedin.com/in/yodit-abebe-a97a68140">
   <img height="40" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png"/>
 </a>
-<a href="https://github.com/yodit93/Personal-portfolio">
-  <img height="40" src="https://cdn2.iconfinder.com/data/icons/business-office-1-9/100/1-07-1024.png"/>
-</a>
 </p>
 
 <p align="center">
@@ -69,6 +66,9 @@ hobbies: ["Gaming", "Cinema", "Discussing with friends", "Art", "Comedy"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="eslint" width="45" height="45"/>
           
 </p>
+
+<p>You can check out my portfolio<a href="https://github.com/yodit93/Personal-portfolio">
+  <img height="30" src="https://cdn2.iconfinder.com/data/icons/business-office-1-9/100/1-07-1024.png"/></a></p>
 
 ![Snake animation](https://github.com/yodit93/yodit93/blob/output/github-contribution-grid-snake.svg)
   
