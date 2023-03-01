@@ -71,4 +71,7 @@ hobbies: ["Gaming", "Cinema", "Discussing with friends", "Art", "Comedy"]
 </p>
 
 ![Snake animation](https://github.com/yodit93/yodit93/blob/output/github-contribution-grid-snake.svg)
-
+  
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
