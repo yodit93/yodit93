@@ -6,7 +6,7 @@ on:
 jobs:
   build:
     name: Jobs to update datas
-    runs-on: window
+    runs-on: windows-latest
     steps:
       # Snake Animation
       - uses: Platane/snk@master
