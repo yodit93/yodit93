@@ -70,6 +70,10 @@ hobbies: ["Gaming", "Cinema", "Discussing with friends", "Art", "Comedy"]
 <p>You can check out my portfolio<a href="https://github.com/yodit93/Personal-portfolio">
   <img height="30" src="https://cdn2.iconfinder.com/data/icons/business-office-1-9/100/1-07-1024.png"/></a></p>
 
+<h3>🤝 I’m currently open to work oportunity as Full stack web developer</h3>
+
+
+
 | ![yodit93's github stats](https://github-readme-stats.vercel.app/api?username=yodit93&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yodit93&theme=radical&layout=compact) |
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BEPb"></img>
