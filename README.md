@@ -42,13 +42,6 @@ fields_of_interests:
     "Game Development",
     "DevOps",
   ]
-technical_background:
-  [
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
-  ]
   
 currently_learning: ["HTML, CSS, Bootstrap, JavaScript, Data structure"]
 2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
