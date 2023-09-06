@@ -1,37 +1,38 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
-</p>
-
-<h1 align="center">
+<h1 align="left">Hi there👋, I'm Yodit!</h1>
+<h2 align="center">
   Let's Connect and have a Chat!💬
-</h1>
+</h2>
 <p align="center">
 <a href="https://twitter.com/yodtwit" margin-right="30px">
-  <img height="40" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-1024.png"/>
+  <img width="30" height="30" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-1024.png"/>
 </a>
 <a href="https://linkedin.com/in/yodit-abebe-a97a68140">
-  <img height="40" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png"/>
-</a>
-  <a href="https://linkedin.com/in/yodit-abebe-a97a68140">
+  <img width="30" height="30" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png"/>
+</a >
+<a href="https://wellfound.com/u/yodit-abebe-ayalew">
+  <img src="https://seeklogo.com/images/A/angellist-logo-A2F68DBEAE-seeklogo.com.png" width="20" height="30" alt="gmail logo"  />
 </a>
 </p>
 
+<h3 align="center">"Nothing is impossible to a willing heart."
+  <span>-John Heywood</span>
+</h3>
 <p align="center">
-  <img src="https://media4.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif?cid=ecf05e47f4gq2i5lglwyu4m82mu9ex60pifzk5tt4rcs00gs&rid=giphy.gif&ct=g" width="100%"/>
+  <img src="https://media4.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif?cid=ecf05e47f4gq2i5lglwyu4m82mu9ex60pifzk5tt4rcs00gs&rid=giphy.gif&ct=g" width="40%"/>
 </p>
 
 
 <h2>👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests.</h2>
 
 ```yaml
-name: Yodit Abebe
+Name: Yodit Abebe
 located_in: Hawassa, Ethiopia
 current_job: Full Stack Developer
 education:
   [
     "Self-Taught Developer and Designer",
     "Master's in Biomedical Imaging",
-    "Bachelor's in Biomeical Engineering",
+    "Bachelor's in Biomedical Engineering",
   ]
 company: Microverse
 
@@ -59,20 +60,25 @@ hobbies: ["Gaming", "Cinema", "Discussing with friends", "Art", "Comedy"]
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="webpack" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="eslint" width="45" height="45"/>
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" width="52" alt="ruby logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" width="52" alt="rails logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
 </p>
 
-<p>You can check out my portfolio<a href="https://github.com/yodit93/Personal-portfolio">
-  <img height="30" src="https://cdn2.iconfinder.com/data/icons/business-office-1-9/100/1-07-1024.png"/></a></p>
+###
+
+<p>You can check out my portfolio <a href="https://yodit93.github.io/yodit_portfolio">
+  <img height="20" src="https://cdn2.iconfinder.com/data/icons/business-office-1-9/100/1-07-1024.png"/></a>
+</p>
 
 <h3>🤝 I’m currently open to work oportunity as Full stack web developer</h3>
-
 
 
 | ![yodit93's github stats](https://github-readme-stats.vercel.app/api?username=yodit93&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yodit93&theme=radical&layout=compact) |
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BEPb"></img>
   
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
