@@ -10,7 +10,7 @@
   <img width="30" height="30" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png"/>
 </a >
 <a href="https://wellfound.com/u/yodit-abebe-ayalew">
-  <img src="https://seeklogo.com/images/A/angellist-logo-A2F68DBEAE-seeklogo.com.png" width="20" height="30" alt="gmail logo"  />
+  <img src="https://seeklogo.com/images/A/angellist-logo-A2F68DBEAE-seeklogo.com.png" width="20" height="30" alt="angelist logo"  />
 </a>
 </p>
 
